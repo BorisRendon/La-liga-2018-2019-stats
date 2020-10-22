@@ -9,14 +9,7 @@ library(shinyWidgets)
 # equipos dataset
 equipos <- read_delim("laliga_partidos_2018-2019.csv", ";")
 nombres_equipos <- unique(equipos$AwayTeam)
-equipos %>% 
-  summarise(AwayTeam)
-# FTHG = Full Time Home Team Goals
-# FTAG = Full Time Away Team Goals
-# FTR = Full Time Result (H=Home Win, D=Draw, A=Away Win)
-# HTHG = Half Time Home Team Goals
-# HTAG = Half Time Away Team Goals
-
+equipos$Season <- NULL
 
 # jugadores dataset
 jugadores <- read_delim("laliga_player_stats_spanish.csv", ";")
@@ -84,13 +77,27 @@ fluidPage(theme = shinytheme("united"),
               tabPanel("Equipos",
                        br(),
                        sidebarPanel(
-                         selectInput("equipos_select",
-                                     "Seleccionar equipo",
-                                     choices=nombres_equipos)
-                         
+                         h3("Resultado"),
+                         div(style="font-size:x-large", textOutput('resultado')),
+                         h3("Ganador del partido"),
+                         imageOutput("homeTeam"),
                        ),
                        mainPanel(h2("Equipos"), 
-                                fluidRow(fluidRow(column(6,DT::dataTableOutput('tabla1')))))
+                                 div(
+                                   style="font-style: italic;",
+                                   tags$ul(
+                                     tags$li("FTHG = Full Time Home Team Goals"),
+                                     tags$li("FTAG = Full Time Away Team Goals"),
+                                     tags$li("FTR = Full Time Result (H=Home Win, D=Draw, A=Away Win)"),
+                                     tags$li("HTHG = Half Time Home Team Goals"),
+                                     tags$li("HTAG = Half Time Away Team Goals"),
+                                     tags$li("HTR = Half Time Result (H=Home Win, D=Draw, A=Away Win)
+")
+                                   )
+                                 ),
+                                 br(),
+                                 fluidRow(fluidRow(column(6,DT::dataTableOutput('tabla1')))),
+                                 )
                        ),
               tabPanel("Jugadores",
                        br(),
@@ -105,15 +112,21 @@ fluidPage(theme = shinytheme("united"),
                        mainPanel(fluidRow(
                                    column(3,imageOutput("team", height = 100)), 
                                    column(9, list(
-                                     div(style="font-size:large", textOutput("jugador")), 
+                                     div(style="font-size:x-large", textOutput("jugador")), 
                                      br(),
-                                     div(style="font-size:medium", textOutput("dorsal"))
+                                     div(style="font-size:medium", textOutput("dorsal")),
+                                     br(),
+                                     div(style="font-size:medium", textOutput("golesAnotados"))
                                     ))
                                  ),
                                  br(),
-                                 div(textOutput("minutos")),
-                                 plotOutput("distCards"),
-                                 plotOutput("distPie")
+                                 div(style="font-style: italic; display:inline-block", textOutput("minutos"), textOutput("cards")),
+                                 br(),
+                                 plotOutput("distPie"),
+                                 plotOutput("distDuelos"),
+                                 br(),
+                                 p("Información adicional del jugador:"),
+                                 DT::dataTableOutput('tablajugadores')
                                  )
                        )
           )
