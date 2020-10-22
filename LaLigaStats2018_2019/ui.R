@@ -25,10 +25,6 @@ posiciones_jugadores <- unique(jugadores$Posicion)
 equipos_jugadores <- unique(jugadores$Equipo)
 
 
-
-
-
-
 total_equipos <- equipos %>% 
   summarise(Cantidad_equipos = n_distinct(HomeTeam))
 
@@ -57,36 +53,34 @@ goles_por_equipo <- jugadores %>%
 
 goles_por_equipo <-unique(goles_por_equipo)
   
-  
+campeon <- goles_por_equipo$Equipo[1]
  
 
 fluidPage(theme = shinytheme("united"),
-          setBackgroundColor("ghostwhite"),
+          #setBackgroundImage(src = "elbicho.png"),
+          titlePanel(h2(style="text-align:center;", "La liga 2018-2019 stats"),),
           mainPanel(
             tabsetPanel(
               tabPanel("Inicio",
-                       
-                       h5("Hay un total de ",total_equipos , "equipos en LaLiga"),
-                       h5("Hay un total de ",total_jugadores , "jugadores inscritos en LaLiga"),
-                       h5("Hay un total de ",total_goles , "goles anotados en LaLiga"),
-                       h5("Hay un total de ",total_amarillas , "tarjetas amarillas en LaLiga"),
-                       h5("Hay un total de ",total_rojas , "tarjetas rojas en LaLiga"),
-                       
-                       plotOutput('graficagoles')
-                       
-                       
-                       # Numero de equipos y de jugadores // 
-                       # Top 5 equipos con mas goles
-                       # Top 5 mejores jugadores > en posiciones
-                       # Campeon de la temporada 2018 - 2019
-                       # Total de goles en la temporada//
-                       # Total de tarjetas amarillas y rojas en la temporada//
-                       
-                       
-                       
-                       
+                       br(),
+                       fluidRow(
+                         column(6, div(style="background-color:#ff9a76; text-align:center; border-radius:5px; height:22px", h4(total_jugadores , " jugadores inscritos"))),
+                         column(6, div(style="background-color:#ff9a76; text-align:center; border-radius:5px; height:22px", h4(total_equipos , " equipos")))
                        ),
-              # feature: comparar equipos y jugadores
+                       fluidRow(
+                         column(6, div(style="background-color:#ff9a76; text-align:center; border-radius:5px; height:22px", h4(total_goles , " goles anotados"))),
+                         column(6, div(style="background-color:#ff9a76; text-align:center; border-radius:5px; height:22px", h4(total_amarillas , "tarjetas amarillas y ", total_rojas, "rojas")))
+                       ),
+                       br(),
+                       div(style="text-align:center",
+                           h4("Goles por equipo"),
+                           plotOutput('graficagoles')),
+                       br(),
+                       fluidRow(
+                         column(3, img(src="winner.png", height = "150px")),
+                         column(9, h2(style="text-align:left;", "El campeón de la temporada fue ", campeon),)),
+                       br(),
+                       ),
               tabPanel("Equipos",
                        br(),
                        sidebarPanel(
@@ -110,13 +104,14 @@ fluidPage(theme = shinytheme("united"),
                        ),
                        mainPanel(fluidRow(
                                    column(3,imageOutput("team", height = 100)), 
-                                   column(9, list(verbatimTextOutput("jugador"), verbatimTextOutput("dorsal")))
+                                   column(9, list(
+                                     div(style="font-size:large", textOutput("jugador")), 
+                                     br(),
+                                     div(style="font-size:medium", textOutput("dorsal"))
+                                    ))
                                  ),
                                  br(),
-                                 div(style="background-color:orange; border-radius:50px; width:100px; text-align:center; color:white",
-                                     "Comparar"),
-                                 br(),
-                                 h4("Minutos jugados"),
+                                 div(textOutput("minutos")),
                                  plotOutput("distCards"),
                                  plotOutput("distPie")
                                  )
