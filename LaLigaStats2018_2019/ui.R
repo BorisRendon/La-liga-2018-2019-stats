@@ -96,7 +96,17 @@ fluidPage(theme = shinytheme("united"),
                                    )
                                  ),
                                  br(),
-                                 fluidRow(fluidRow(column(6,DT::dataTableOutput('tabla1')))),
+                                 fluidRow(fluidRow(column(6,DT::dataTableOutput('tabla1'))),
+                                          sidebarLayout(sidebarPanel(
+                                            selectInput("bins",
+                                                        "Buscar por equipo:",
+                                                        choices = NULL,
+                                                        selected =NULL
+                                                        )),
+                                            mainPanel(plotOutput("distPlot"))
+                                            
+                                          )),
+                                 
                                  )
                        ),
               tabPanel("Jugadores",

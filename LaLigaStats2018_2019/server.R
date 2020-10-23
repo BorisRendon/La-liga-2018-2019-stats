@@ -11,6 +11,18 @@ jugadores <- na.omit(jugadores)
 
 shinyServer(function(input, output, session) {
   
+  
+  observe({
+    query <- parseQueryString(session$clientData$url_search)
+    
+    if (!is.null(query[['bins']])) {
+     # updateSelectInput(session, "bins", value = query[['bins']])
+    }
+    #if(!is.null(query[['bar_col']])){
+     # updateSelectInput(session, "set_col" , selected =query[['bar_col']] )
+    #}
+  })
+  
   ## Equipos
   output$tabla1 <- DT::renderDataTable({
     DT::datatable(equipos,
@@ -18,9 +30,9 @@ shinyServer(function(input, output, session) {
                   options = list(pageLength = 10,
                                  lengthMenu = c(5, 10, 15),
                                  dom = 'Bfrtip',
-                                 buttons = c('csv')),
+                                 buttons = c('csv'), search = list(regex = TRUE, caseInsensitive = FALSE, search = 'Barcelona')),
                   filter = 'bottom',
-                  selection='single'
+                  selection='single' 
     ) 
   })
   
