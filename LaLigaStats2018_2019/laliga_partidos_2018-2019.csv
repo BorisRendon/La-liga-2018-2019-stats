@@ -1,381 +1,381 @@
 Season;Date;HomeTeam;AwayTeam;FTHG;FTAG;FTR;HTHG;HTAG;HTR
-2018-19;17/08/2018;Betis;Levante;0;3;A;0;1;A
-2018-19;17/08/2018;Girona;Valladolid;0;0;D;0;0;D
-2018-19;18/08/2018;Barcelona;Alaves;3;0;H;0;0;D
-2018-19;18/08/2018;Celta;Espanol;1;1;D;0;1;A
-2018-19;18/08/2018;Villarreal;Sociedad;1;2;A;1;1;D
-2018-19;19/08/2018;Eibar;Huesca;1;2;A;0;2;A
-2018-19;19/08/2018;Real Madrid;Getafe;2;0;H;1;0;H
-2018-19;19/08/2018;Vallecano;Sevilla;1;4;A;0;3;A
-2018-19;20/08/2018;Ath Bilbao;Leganes;2;1;H;1;1;D
-2018-19;20/08/2018;Valencia;Ath Madrid;1;1;D;0;1;A
-2018-19;24/08/2018;Getafe;Eibar;2;0;H;1;0;H
-2018-19;24/08/2018;Leganes;Sociedad;2;2;D;0;2;A
-2018-19;25/08/2018;Alaves;Betis;0;0;D;0;0;D
-2018-19;25/08/2018;Ath Madrid;Vallecano;1;0;H;0;0;D
-2018-19;25/08/2018;Valladolid;Barcelona;0;1;A;0;0;D
-2018-19;26/08/2018;Espanol;Valencia;2;0;H;0;0;D
-2018-19;26/08/2018;Girona;Real Madrid;1;4;A;1;1;D
-2018-19;26/08/2018;Sevilla;Villarreal;0;0;D;0;0;D
-2018-19;27/08/2018;Ath Bilbao;Huesca;2;2;D;0;0;D
-2018-19;27/08/2018;Levante;Celta;1;2;A;0;2;A
-2018-19;31/08/2018;Eibar;Sociedad;2;1;H;1;1;D
-2018-19;31/08/2018;Getafe;Valladolid;0;0;D;0;0;D
-2018-19;31/08/2018;Villarreal;Girona;0;1;A;0;0;D
-2018-19;1/09/2018;Celta;Ath Madrid;2;0;H;0;0;D
-2018-19;1/09/2018;Real Madrid;Leganes;4;1;H;1;1;D
-2018-19;2/09/2018;Alaves;Espanol;2;1;H;0;1;A
-2018-19;2/09/2018;Barcelona;Huesca;8;2;H;3;2;H
-2018-19;2/09/2018;Betis;Sevilla;1;0;H;0;0;D
-2018-19;2/09/2018;Levante;Valencia;2;2;D;2;1;H
-2018-19;14/09/2018;Huesca;Vallecano;0;1;A;0;1;A
-2018-19;15/09/2018;Ath Bilbao;Real Madrid;1;1;D;1;0;H
-2018-19;15/09/2018;Ath Madrid;Eibar;1;1;D;0;0;D
-2018-19;15/09/2018;Sociedad;Barcelona;1;2;A;1;0;H
-2018-19;15/09/2018;Valencia;Betis;0;0;D;0;0;D
-2018-19;16/09/2018;Espanol;Levante;1;0;H;0;0;D
-2018-19;16/09/2018;Leganes;Villarreal;0;1;A;0;0;D
-2018-19;16/09/2018;Sevilla;Getafe;0;2;A;0;2;A
-2018-19;16/09/2018;Valladolid;Alaves;0;1;A;0;0;D
-2018-19;17/09/2018;Girona;Celta;3;2;H;2;1;H
-2018-19;21/09/2018;Huesca;Sociedad;0;1;A;0;0;D
-2018-19;22/09/2018;Celta;Valladolid;3;3;D;2;1;H
-2018-19;22/09/2018;Eibar;Leganes;1;0;H;0;0;D
-2018-19;22/09/2018;Getafe;Ath Madrid;0;2;A;0;1;A
-2018-19;22/09/2018;Real Madrid;Espanol;1;0;H;1;0;H
-2018-19;22/09/2018;Vallecano;Alaves;1;5;A;1;2;A
-2018-19;23/09/2018;Barcelona;Girona;2;2;D;1;1;D
-2018-19;23/09/2018;Betis;Ath Bilbao;2;2;D;0;2;A
-2018-19;23/09/2018;Levante;Sevilla;2;6;A;1;4;A
-2018-19;23/09/2018;Villarreal;Valencia;0;0;D;0;0;D
-2018-19;25/09/2018;Ath Madrid;Huesca;3;0;H;3;0;H
-2018-19;25/09/2018;Espanol;Eibar;1;0;H;0;0;D
-2018-19;25/09/2018;Sociedad;Vallecano;2;2;D;1;2;A
-2018-19;26/09/2018;Ath Bilbao;Villarreal;0;3;A;0;0;D
-2018-19;26/09/2018;Leganes;Barcelona;2;1;H;0;1;A
-2018-19;26/09/2018;Sevilla;Real Madrid;3;0;H;3;0;H
-2018-19;26/09/2018;Valencia;Celta;1;1;D;1;0;H
-2018-19;27/09/2018;Alaves;Getafe;1;1;D;0;0;D
-2018-19;27/09/2018;Girona;Betis;0;1;A;0;0;D
-2018-19;27/09/2018;Valladolid;Levante;2;1;H;0;0;D
-2018-19;28/09/2018;Vallecano;Espanol;2;2;D;1;2;A
-2018-19;29/09/2018;Barcelona;Ath Bilbao;1;1;D;0;1;A
-2018-19;29/09/2018;Eibar;Sevilla;1;3;A;0;0;D
-2018-19;29/09/2018;Real Madrid;Ath Madrid;0;0;D;0;0;D
-2018-19;29/09/2018;Sociedad;Valencia;0;1;A;0;1;A
-2018-19;30/09/2018;Betis;Leganes;1;0;H;0;0;D
-2018-19;30/09/2018;Huesca;Girona;1;1;D;0;1;A
-2018-19;30/09/2018;Levante;Alaves;2;1;H;2;1;H
-2018-19;30/09/2018;Villarreal;Valladolid;0;1;A;0;0;D
-2018-19;1/10/2018;Celta;Getafe;1;1;D;1;0;H
-2018-19;5/10/2018;Ath Bilbao;Sociedad;1;3;A;1;1;D
-2018-19;6/10/2018;Alaves;Real Madrid;1;0;H;0;0;D
-2018-19;6/10/2018;Getafe;Levante;0;1;A;0;0;D
-2018-19;6/10/2018;Girona;Eibar;2;3;A;2;2;D
-2018-19;6/10/2018;Leganes;Vallecano;1;0;H;1;0;H
-2018-19;7/10/2018;Ath Madrid;Betis;1;0;H;0;0;D
-2018-19;7/10/2018;Espanol;Villarreal;3;1;H;1;1;D
-2018-19;7/10/2018;Sevilla;Celta;2;1;H;1;0;H
-2018-19;7/10/2018;Valencia;Barcelona;1;1;D;1;1;D
-2018-19;7/10/2018;Valladolid;Huesca;1;0;H;1;0;H
-2018-19;19/10/2018;Celta;Alaves;0;1;A;0;0;D
-2018-19;20/10/2018;Barcelona;Sevilla;4;2;H;2;0;H
-2018-19;20/10/2018;Real Madrid;Levante;1;2;A;0;2;A
-2018-19;20/10/2018;Valencia;Leganes;1;1;D;0;0;D
-2018-19;20/10/2018;Villarreal;Ath Madrid;1;1;D;0;0;D
-2018-19;21/10/2018;Betis;Valladolid;0;1;A;0;1;A
-2018-19;21/10/2018;Eibar;Ath Bilbao;1;1;D;1;1;D
-2018-19;21/10/2018;Huesca;Espanol;0;2;A;0;1;A
-2018-19;21/10/2018;Vallecano;Getafe;1;2;A;0;0;D
-2018-19;22/10/2018;Sociedad;Girona;0;0;D;0;0;D
-2018-19;24/10/2018;Vallecano;Ath Bilbao;1;1;D;1;0;H
-2018-19;26/10/2018;Valladolid;Espanol;1;1;D;0;1;A
-2018-19;27/10/2018;Ath Bilbao;Valencia;0;0;D;0;0;D
-2018-19;27/10/2018;Ath Madrid;Sociedad;2;0;H;1;0;H
-2018-19;27/10/2018;Celta;Eibar;4;0;H;2;0;H
-2018-19;27/10/2018;Girona;Vallecano;2;1;H;2;0;H
-2018-19;27/10/2018;Levante;Leganes;2;0;H;1;0;H
-2018-19;28/10/2018;Alaves;Villarreal;2;1;H;0;1;A
-2018-19;28/10/2018;Barcelona;Real Madrid;5;1;H;2;0;H
-2018-19;28/10/2018;Getafe;Betis;2;0;H;0;0;D
-2018-19;28/10/2018;Sevilla;Huesca;2;1;H;0;0;D
-2018-19;3/11/2018;Leganes;Ath Madrid;1;1;D;0;0;D
-2018-19;3/11/2018;Real Madrid;Valladolid;2;0;H;0;0;D
-2018-19;3/11/2018;Valencia;Girona;0;1;A;0;0;D
-2018-19;3/11/2018;Vallecano;Barcelona;2;3;A;1;1;D
-2018-19;4/11/2018;Betis;Celta;3;3;D;1;0;H
-2018-19;4/11/2018;Eibar;Alaves;2;1;H;0;1;A
-2018-19;4/11/2018;Huesca;Getafe;1;1;D;0;0;D
-2018-19;4/11/2018;Sociedad;Sevilla;0;0;D;0;0;D
-2018-19;4/11/2018;Villarreal;Levante;1;1;D;0;0;D
-2018-19;5/11/2018;Espanol;Ath Bilbao;1;0;H;1;0;H
-2018-19;9/11/2018;Levante;Sociedad;1;3;A;1;0;H
-2018-19;10/11/2018;Ath Madrid;Ath Bilbao;3;2;H;0;1;A
-2018-19;10/11/2018;Getafe;Valencia;0;1;A;0;0;D
-2018-19;10/11/2018;Girona;Leganes;0;0;D;0;0;D
-2018-19;10/11/2018;Valladolid;Eibar;0;0;D;0;0;D
-2018-19;11/11/2018;Alaves;Huesca;2;1;H;1;1;D
-2018-19;11/11/2018;Barcelona;Betis;3;4;A;0;2;A
-2018-19;11/11/2018;Celta;Real Madrid;2;4;A;0;1;A
-2018-19;11/11/2018;Sevilla;Espanol;2;1;H;0;1;A
-2018-19;11/11/2018;Vallecano;Villarreal;2;2;D;1;1;D
-2018-19;23/11/2018;Leganes;Alaves;1;0;H;1;0;H
-2018-19;24/11/2018;Ath Madrid;Barcelona;1;1;D;0;0;D
-2018-19;24/11/2018;Eibar;Real Madrid;3;0;H;1;0;H
-2018-19;24/11/2018;Huesca;Levante;2;2;D;1;1;D
-2018-19;24/11/2018;Valencia;Vallecano;3;0;H;1;0;H
-2018-19;25/11/2018;Ath Bilbao;Getafe;1;1;D;0;0;D
-2018-19;25/11/2018;Espanol;Girona;1;3;A;0;2;A
-2018-19;25/11/2018;Sevilla;Valladolid;1;0;H;1;0;H
-2018-19;25/11/2018;Villarreal;Betis;2;1;H;0;0;D
-2018-19;26/11/2018;Sociedad;Celta;2;1;H;1;0;H
-2018-19;30/11/2018;Vallecano;Eibar;1;0;H;0;0;D
-2018-19;1/12/2018;Celta;Huesca;2;0;H;1;0;H
-2018-19;1/12/2018;Getafe;Espanol;3;0;H;0;0;D
-2018-19;1/12/2018;Real Madrid;Valencia;2;0;H;1;0;H
-2018-19;1/12/2018;Valladolid;Leganes;2;4;A;0;2;A
-2018-19;2/12/2018;Alaves;Sevilla;1;1;D;1;0;H
-2018-19;2/12/2018;Barcelona;Villarreal;2;0;H;1;0;H
-2018-19;2/12/2018;Betis;Sociedad;1;0;H;1;0;H
-2018-19;2/12/2018;Girona;Ath Madrid;1;1;D;1;0;H
-2018-19;3/12/2018;Levante;Ath Bilbao;3;0;H;1;0;H
-2018-19;7/12/2018;Leganes;Getafe;1;1;D;0;1;A
-2018-19;8/12/2018;Ath Madrid;Alaves;3;0;H;1;0;H
-2018-19;8/12/2018;Espanol;Barcelona;0;4;A;0;3;A
-2018-19;8/12/2018;Valencia;Sevilla;1;1;D;0;0;D
-2018-19;8/12/2018;Villarreal;Celta;2;3;A;0;1;A
-2018-19;9/12/2018;Betis;Vallecano;2;0;H;0;0;D
-2018-19;9/12/2018;Eibar;Levante;4;4;D;1;2;A
-2018-19;9/12/2018;Huesca;Real Madrid;0;1;A;0;1;A
-2018-19;9/12/2018;Sociedad;Valladolid;1;2;A;0;1;A
-2018-19;10/12/2018;Ath Bilbao;Girona;1;0;H;0;0;D
-2018-19;14/12/2018;Celta;Leganes;0;0;D;0;0;D
-2018-19;15/12/2018;Eibar;Valencia;1;1;D;0;1;A
-2018-19;15/12/2018;Getafe;Sociedad;1;0;H;1;0;H
-2018-19;15/12/2018;Real Madrid;Vallecano;1;0;H;1;0;H
-2018-19;15/12/2018;Valladolid;Ath Madrid;2;3;A;0;2;A
-2018-19;16/12/2018;Espanol;Betis;1;3;A;1;1;D
-2018-19;16/12/2018;Huesca;Villarreal;2;2;D;1;0;H
-2018-19;16/12/2018;Levante;Barcelona;0;5;A;0;2;A
-2018-19;16/12/2018;Sevilla;Girona;2;0;H;0;0;D
-2018-19;17/12/2018;Alaves;Ath Bilbao;0;0;D;0;0;D
-2018-19;21/12/2018;Girona;Getafe;1;1;D;0;0;D
-2018-19;21/12/2018;Sociedad;Alaves;0;1;A;0;1;A
-2018-19;22/12/2018;Ath Bilbao;Valladolid;1;1;D;1;0;H
-2018-19;22/12/2018;Ath Madrid;Espanol;1;0;H;0;0;D
-2018-19;22/12/2018;Barcelona;Celta;2;0;H;2;0;H
-2018-19;22/12/2018;Betis;Eibar;1;1;D;1;0;H
-2018-19;23/12/2018;Leganes;Sevilla;1;1;D;1;0;H
-2018-19;23/12/2018;Valencia;Huesca;2;1;H;1;0;H
-2018-19;23/12/2018;Vallecano;Levante;2;1;H;1;0;H
-2018-19;3/01/2019;Villarreal;Real Madrid;2;2;D;1;2;A
-2018-19;4/01/2019;Espanol;Leganes;1;0;H;1;0;H
-2018-19;4/01/2019;Levante;Girona;2;2;D;0;1;A
-2018-19;5/01/2019;Alaves;Valencia;2;1;H;2;1;H
-2018-19;5/01/2019;Huesca;Betis;2;1;H;0;0;D
-2018-19;5/01/2019;Valladolid;Vallecano;0;1;A;0;1;A
-2018-19;6/01/2019;Eibar;Villarreal;0;0;D;0;0;D
-2018-19;6/01/2019;Getafe;Barcelona;1;2;A;1;2;A
-2018-19;6/01/2019;Real Madrid;Sociedad;0;2;A;0;1;A
-2018-19;6/01/2019;Sevilla;Ath Madrid;1;1;D;1;1;D
-2018-19;7/01/2019;Celta;Ath Bilbao;1;2;A;1;1;D
-2018-19;11/01/2019;Vallecano;Celta;4;2;H;2;2;D
-2018-19;12/01/2019;Girona;Alaves;1;1;D;1;0;H
-2018-19;12/01/2019;Leganes;Huesca;1;0;H;0;0;D
-2018-19;12/01/2019;Valencia;Valladolid;1;1;D;0;0;D
-2018-19;12/01/2019;Villarreal;Getafe;1;2;A;0;0;D
-2018-19;13/01/2019;Ath Bilbao;Sevilla;2;0;H;1;0;H
-2018-19;13/01/2019;Ath Madrid;Levante;1;0;H;0;0;D
-2018-19;13/01/2019;Barcelona;Eibar;3;0;H;1;0;H
-2018-19;13/01/2019;Betis;Real Madrid;1;2;A;0;1;A
-2018-19;14/01/2019;Sociedad;Espanol;3;2;H;2;2;D
-2018-19;18/01/2019;Getafe;Alaves;4;0;H;1;0;H
-2018-19;19/01/2019;Celta;Valencia;1;2;A;1;0;H
-2018-19;19/01/2019;Huesca;Ath Madrid;0;3;A;0;1;A
-2018-19;19/01/2019;Real Madrid;Sevilla;2;0;H;0;0;D
-2018-19;20/01/2019;Barcelona;Leganes;3;1;H;1;0;H
-2018-19;20/01/2019;Betis;Girona;3;2;H;1;2;A
-2018-19;20/01/2019;Levante;Valladolid;2;0;H;1;0;H
-2018-19;20/01/2019;Vallecano;Sociedad;2;2;D;2;1;H
-2018-19;20/01/2019;Villarreal;Ath Bilbao;1;1;D;0;1;A
-2018-19;21/01/2019;Eibar;Espanol;3;0;H;1;0;H
-2018-19;26/01/2019;Ath Madrid;Getafe;2;0;H;2;0;H
-2018-19;26/01/2019;Leganes;Eibar;2;2;D;0;2;A
-2018-19;26/01/2019;Sevilla;Levante;5;0;H;0;0;D
-2018-19;26/01/2019;Valencia;Villarreal;3;0;H;1;0;H
-2018-19;27/01/2019;Ath Bilbao;Betis;1;0;H;1;0;H
-2018-19;27/01/2019;Espanol;Real Madrid;2;4;A;1;3;A
-2018-19;27/01/2019;Girona;Barcelona;0;2;A;0;1;A
-2018-19;27/01/2019;Sociedad;Huesca;0;0;D;0;0;D
-2018-19;27/01/2019;Valladolid;Celta;2;1;H;0;1;A
-2018-19;28/01/2019;Alaves;Vallecano;0;1;A;0;0;D
-2018-19;1/02/2019;Huesca;Valladolid;4;0;H;1;0;H
-2018-19;2/02/2019;Barcelona;Valencia;2;2;D;1;2;A
-2018-19;2/02/2019;Celta;Sevilla;1;0;H;0;0;D
-2018-19;2/02/2019;Levante;Getafe;0;0;D;0;0;D
-2018-19;2/02/2019;Sociedad;Ath Bilbao;2;1;H;2;0;H
-2018-19;3/02/2019;Betis;Ath Madrid;1;0;H;0;0;D
-2018-19;3/02/2019;Eibar;Girona;3;0;H;1;0;H
-2018-19;3/02/2019;Real Madrid;Alaves;3;0;H;1;0;H
-2018-19;3/02/2019;Villarreal;Espanol;2;2;D;1;0;H
-2018-19;4/02/2019;Vallecano;Leganes;1;2;A;0;1;A
-2018-19;8/02/2019;Valladolid;Villarreal;0;0;D;0;0;D
-2018-19;9/02/2019;Ath Madrid;Real Madrid;1;3;A;1;2;A
-2018-19;9/02/2019;Espanol;Vallecano;2;1;H;0;1;A
-2018-19;9/02/2019;Getafe;Celta;3;1;H;1;1;D
-2018-19;9/02/2019;Girona;Huesca;0;2;A;0;2;A
-2018-19;10/02/2019;Ath Bilbao;Barcelona;0;0;D;0;0;D
-2018-19;10/02/2019;Leganes;Betis;3;0;H;2;0;H
-2018-19;10/02/2019;Sevilla;Eibar;2;2;D;0;1;A
-2018-19;10/02/2019;Valencia;Sociedad;0;0;D;0;0;D
-2018-19;11/02/2019;Alaves;Levante;2;0;H;1;0;H
-2018-19;15/02/2019;Eibar;Getafe;2;2;D;0;1;A
-2018-19;16/02/2019;Barcelona;Valladolid;1;0;H;1;0;H
-2018-19;16/02/2019;Celta;Levante;1;4;A;0;2;A
-2018-19;16/02/2019;Sociedad;Leganes;3;0;H;0;0;D
-2018-19;16/02/2019;Vallecano;Ath Madrid;0;1;A;0;0;D
-2018-19;17/02/2019;Betis;Alaves;1;1;D;1;1;D
-2018-19;17/02/2019;Real Madrid;Girona;1;2;A;1;0;H
-2018-19;17/02/2019;Valencia;Espanol;0;0;D;0;0;D
-2018-19;17/02/2019;Villarreal;Sevilla;3;0;H;2;0;H
-2018-19;18/02/2019;Huesca;Ath Bilbao;0;1;A;0;1;A
-2018-19;22/02/2019;Espanol;Huesca;1;1;D;1;0;H
-2018-19;23/02/2019;Alaves;Celta;0;0;D;0;0;D
-2018-19;23/02/2019;Ath Bilbao;Eibar;1;0;H;1;0;H
-2018-19;23/02/2019;Getafe;Vallecano;2;1;H;1;0;H
-2018-19;23/02/2019;Sevilla;Barcelona;2;4;A;2;1;H
-2018-19;24/02/2019;Ath Madrid;Villarreal;2;0;H;1;0;H
-2018-19;24/02/2019;Leganes;Valencia;1;1;D;0;1;A
-2018-19;24/02/2019;Levante;Real Madrid;1;2;A;0;1;A
-2018-19;24/02/2019;Valladolid;Betis;0;2;A;0;1;A
-2018-19;25/02/2019;Girona;Sociedad;0;0;D;0;0;D
-2018-19;1/03/2019;Vallecano;Girona;0;2;A;0;1;A
-2018-19;2/03/2019;Espanol;Valladolid;3;1;H;1;1;D
-2018-19;2/03/2019;Huesca;Sevilla;2;1;H;1;0;H
-2018-19;2/03/2019;Real Madrid;Barcelona;0;1;A;0;1;A
-2018-19;2/03/2019;Villarreal;Alaves;1;2;A;0;0;D
-2018-19;3/03/2019;Betis;Getafe;1;2;A;0;2;A
-2018-19;3/03/2019;Eibar;Celta;1;0;H;0;0;D
-2018-19;3/03/2019;Sociedad;Ath Madrid;0;2;A;0;2;A
-2018-19;3/03/2019;Valencia;Ath Bilbao;2;0;H;0;0;D
-2018-19;4/03/2019;Leganes;Levante;1;0;H;1;0;H
-2018-19;8/03/2019;Ath Bilbao;Espanol;1;1;D;0;1;A
-2018-19;9/03/2019;Alaves;Eibar;1;1;D;0;0;D
-2018-19;9/03/2019;Ath Madrid;Leganes;1;0;H;0;0;D
-2018-19;9/03/2019;Barcelona;Vallecano;3;1;H;1;1;D
-2018-19;9/03/2019;Getafe;Huesca;2;1;H;0;1;A
-2018-19;10/03/2019;Celta;Betis;0;1;A;0;0;D
-2018-19;10/03/2019;Girona;Valencia;2;3;A;1;1;D
-2018-19;10/03/2019;Levante;Villarreal;0;2;A;0;0;D
-2018-19;10/03/2019;Sevilla;Sociedad;5;2;H;1;1;D
-2018-19;10/03/2019;Valladolid;Real Madrid;1;4;A;1;1;D
-2018-19;15/03/2019;Sociedad;Levante;1;1;D;1;0;H
-2018-19;16/03/2019;Ath Bilbao;Ath Madrid;2;0;H;0;0;D
-2018-19;16/03/2019;Huesca;Alaves;1;3;A;1;1;D
-2018-19;16/03/2019;Leganes;Girona;0;2;A;0;2;A
-2018-19;16/03/2019;Real Madrid;Celta;2;0;H;0;0;D
-2018-19;17/03/2019;Betis;Barcelona;1;4;A;0;2;A
-2018-19;17/03/2019;Eibar;Valladolid;1;2;A;0;0;D
-2018-19;17/03/2019;Espanol;Sevilla;0;1;A;0;0;D
-2018-19;17/03/2019;Valencia;Getafe;0;0;D;0;0;D
-2018-19;17/03/2019;Villarreal;Vallecano;3;1;H;0;1;A
-2018-19;29/03/2019;Girona;Ath Bilbao;1;2;A;1;0;H
-2018-19;30/03/2019;Alaves;Ath Madrid;0;4;A;0;2;A
-2018-19;30/03/2019;Barcelona;Espanol;2;0;H;0;0;D
-2018-19;30/03/2019;Celta;Villarreal;3;2;H;0;2;A
-2018-19;30/03/2019;Getafe;Leganes;0;2;A;0;0;D
-2018-19;31/03/2019;Levante;Eibar;2;2;D;2;1;H
-2018-19;31/03/2019;Real Madrid;Huesca;3;2;H;1;1;D
-2018-19;31/03/2019;Sevilla;Valencia;0;1;A;0;1;A
-2018-19;31/03/2019;Valladolid;Sociedad;1;1;D;1;0;H
-2018-19;31/03/2019;Vallecano;Betis;1;1;D;1;0;H
-2018-19;2/04/2019;Ath Madrid;Girona;2;0;H;0;0;D
-2018-19;2/04/2019;Espanol;Getafe;1;1;D;0;0;D
-2018-19;2/04/2019;Villarreal;Barcelona;4;4;D;1;2;A
-2018-19;3/04/2019;Ath Bilbao;Levante;3;2;H;2;0;H
-2018-19;3/04/2019;Eibar;Vallecano;2;1;H;0;1;A
-2018-19;3/04/2019;Huesca;Celta;3;3;D;0;1;A
-2018-19;3/04/2019;Valencia;Real Madrid;2;1;H;1;0;H
-2018-19;4/04/2019;Leganes;Valladolid;1;0;H;0;0;D
-2018-19;4/04/2019;Sevilla;Alaves;2;0;H;1;0;H
-2018-19;4/04/2019;Sociedad;Betis;2;1;H;1;0;H
-2018-19;6/04/2019;Barcelona;Ath Madrid;2;0;H;0;0;D
-2018-19;6/04/2019;Girona;Espanol;1;2;A;0;0;D
-2018-19;6/04/2019;Real Madrid;Eibar;2;1;H;0;1;A
-2018-19;6/04/2019;Vallecano;Valencia;2;0;H;1;0;H
-2018-19;7/04/2019;Alaves;Leganes;1;1;D;1;0;H
-2018-19;7/04/2019;Betis;Villarreal;2;1;H;1;1;D
-2018-19;7/04/2019;Celta;Sociedad;3;1;H;0;1;A
-2018-19;7/04/2019;Getafe;Ath Bilbao;1;0;H;0;0;D
-2018-19;7/04/2019;Levante;Huesca;2;2;D;1;0;H
-2018-19;7/04/2019;Valladolid;Sevilla;0;2;A;0;0;D
-2018-19;13/04/2019;Ath Madrid;Celta;2;0;H;1;0;H
-2018-19;13/04/2019;Espanol;Alaves;2;1;H;1;0;H
-2018-19;13/04/2019;Huesca;Barcelona;0;0;D;0;0;D
-2018-19;13/04/2019;Sevilla;Betis;3;2;H;1;0;H
-2018-19;14/04/2019;Ath Bilbao;Vallecano;3;2;H;1;1;D
-2018-19;14/04/2019;Girona;Villarreal;0;1;A;0;1;A
-2018-19;14/04/2019;Sociedad;Eibar;1;1;D;1;0;H
-2018-19;14/04/2019;Valencia;Levante;3;1;H;1;0;H
-2018-19;14/04/2019;Valladolid;Getafe;2;2;D;1;1;D
-2018-19;15/04/2019;Leganes;Real Madrid;1;1;D;1;0;H
-2018-19;19/04/2019;Alaves;Valladolid;2;2;D;2;1;H
-2018-19;20/04/2019;Barcelona;Sociedad;2;1;H;1;0;H
-2018-19;20/04/2019;Celta;Girona;2;1;H;1;0;H
-2018-19;20/04/2019;Eibar;Ath Madrid;0;1;A;0;0;D
-2018-19;20/04/2019;Vallecano;Huesca;0;0;D;0;0;D
-2018-19;21/04/2019;Betis;Valencia;1;2;A;0;1;A
-2018-19;21/04/2019;Getafe;Sevilla;3;0;H;2;0;H
-2018-19;21/04/2019;Levante;Espanol;2;2;D;0;1;A
-2018-19;21/04/2019;Real Madrid;Ath Bilbao;3;0;H;0;0;D
-2018-19;21/04/2019;Villarreal;Leganes;2;1;H;0;0;D
-2018-19;23/04/2019;Alaves;Barcelona;0;2;A;0;0;D
-2018-19;23/04/2019;Huesca;Eibar;2;0;H;0;0;D
-2018-19;23/04/2019;Valladolid;Girona;1;0;H;0;0;D
-2018-19;24/04/2019;Ath Madrid;Valencia;3;2;H;1;1;D
-2018-19;24/04/2019;Espanol;Celta;1;1;D;1;0;H
-2018-19;24/04/2019;Leganes;Ath Bilbao;0;1;A;0;1;A
-2018-19;24/04/2019;Levante;Betis;4;0;H;2;0;H
-2018-19;25/04/2019;Getafe;Real Madrid;0;0;D;0;0;D
-2018-19;25/04/2019;Sevilla;Vallecano;5;0;H;0;0;D
-2018-19;25/04/2019;Sociedad;Villarreal;0;1;A;0;0;D
-2018-19;27/04/2019;Ath Bilbao;Alaves;1;1;D;1;1;D
-2018-19;27/04/2019;Ath Madrid;Valladolid;1;0;H;0;0;D
-2018-19;27/04/2019;Barcelona;Levante;1;0;H;0;0;D
-2018-19;27/04/2019;Leganes;Celta;0;0;D;0;0;D
-2018-19;28/04/2019;Girona;Sevilla;1;0;H;0;0;D
-2018-19;28/04/2019;Sociedad;Getafe;2;1;H;1;0;H
-2018-19;28/04/2019;Valencia;Eibar;0;1;A;0;0;D
-2018-19;28/04/2019;Vallecano;Real Madrid;1;0;H;1;0;H
-2018-19;28/04/2019;Villarreal;Huesca;1;1;D;1;0;H
-2018-19;29/04/2019;Betis;Espanol;1;1;D;0;1;A
-2018-19;3/05/2019;Sevilla;Leganes;0;3;A;0;2;A
-2018-19;4/05/2019;Alaves;Sociedad;0;1;A;0;1;A
-2018-19;4/05/2019;Celta;Barcelona;2;0;H;0;0;D
-2018-19;4/05/2019;Espanol;Ath Madrid;3;0;H;1;0;H
-2018-19;4/05/2019;Levante;Vallecano;4;1;H;2;0;H
-2018-19;5/05/2019;Eibar;Betis;1;0;H;1;0;H
-2018-19;5/05/2019;Getafe;Girona;2;0;H;1;0;H
-2018-19;5/05/2019;Huesca;Valencia;2;6;A;0;5;A
-2018-19;5/05/2019;Real Madrid;Villarreal;3;2;H;2;1;H
-2018-19;5/05/2019;Valladolid;Ath Bilbao;1;0;H;1;0;H
-2018-19;12/05/2019;Ath Bilbao;Celta;3;1;H;3;0;H
-2018-19;12/05/2019;Ath Madrid;Sevilla;1;1;D;1;0;H
-2018-19;12/05/2019;Barcelona;Getafe;2;0;H;1;0;H
-2018-19;12/05/2019;Betis;Huesca;2;1;H;1;0;H
-2018-19;12/05/2019;Girona;Levante;1;2;A;0;0;D
-2018-19;12/05/2019;Leganes;Espanol;0;2;A;0;1;A
-2018-19;12/05/2019;Sociedad;Real Madrid;3;1;H;1;1;D
-2018-19;12/05/2019;Valencia;Alaves;3;1;H;2;1;H
-2018-19;12/05/2019;Vallecano;Valladolid;1;2;A;0;1;A
-2018-19;12/05/2019;Villarreal;Eibar;1;0;H;0;0;D
-2018-19;18/05/2019;Alaves;Girona;2;1;H;1;0;H
-2018-19;18/05/2019;Celta;Vallecano;2;2;D;0;1;A
-2018-19;18/05/2019;Espanol;Sociedad;2;0;H;0;0;D
-2018-19;18/05/2019;Getafe;Villarreal;2;2;D;1;1;D
-2018-19;18/05/2019;Huesca;Leganes;2;1;H;0;1;A
-2018-19;18/05/2019;Levante;Ath Madrid;2;2;D;2;0;H
-2018-19;18/05/2019;Sevilla;Ath Bilbao;2;0;H;1;0;H
-2018-19;18/05/2019;Valladolid;Valencia;0;2;A;0;1;A
-2018-19;19/05/2019;Eibar;Barcelona;2;2;D;2;2;D
-2018-19;19/05/2019;Real Madrid;Betis;0;2;A;0;0;D
+2018-19;17/08/2018;Real Betis;Levante UD;0;3;A;0;1;A
+2018-19;17/08/2018;Girona FC;R. Valladolid CF;0;0;D;0;0;D
+2018-19;18/08/2018;FC Barcelona;D. Alavés;3;0;H;0;0;D
+2018-19;18/08/2018;RC Celta;RCD Espanyol;1;1;D;0;1;A
+2018-19;18/08/2018;Villarreal CF;Real Sociedad;1;2;A;1;1;D
+2018-19;19/08/2018;SD Eibar;SD Huesca;1;2;A;0;2;A
+2018-19;19/08/2018;Real Madrid;Getafe CF;2;0;H;1;0;H
+2018-19;19/08/2018;Rayo Vallecano;Sevilla FC;1;4;A;0;3;A
+2018-19;20/08/2018;Athletic Club;CD Leganés;2;1;H;1;1;D
+2018-19;20/08/2018;Valencia CF;Atlético de Madrid;1;1;D;0;1;A
+2018-19;24/08/2018;Getafe CF;SD Eibar;2;0;H;1;0;H
+2018-19;24/08/2018;CD Leganés;Real Sociedad;2;2;D;0;2;A
+2018-19;25/08/2018;D. Alavés;Real Betis;0;0;D;0;0;D
+2018-19;25/08/2018;Atlético de Madrid;Rayo Vallecano;1;0;H;0;0;D
+2018-19;25/08/2018;R. Valladolid CF;FC Barcelona;0;1;A;0;0;D
+2018-19;26/08/2018;RCD Espanyol;Valencia CF;2;0;H;0;0;D
+2018-19;26/08/2018;Girona FC;Real Madrid;1;4;A;1;1;D
+2018-19;26/08/2018;Sevilla FC;Villarreal CF;0;0;D;0;0;D
+2018-19;27/08/2018;Athletic Club;SD Huesca;2;2;D;0;0;D
+2018-19;27/08/2018;Levante UD;RC Celta;1;2;A;0;2;A
+2018-19;31/08/2018;SD Eibar;Real Sociedad;2;1;H;1;1;D
+2018-19;31/08/2018;Getafe CF;R. Valladolid CF;0;0;D;0;0;D
+2018-19;31/08/2018;Villarreal CF;Girona FC;0;1;A;0;0;D
+2018-19;1/09/2018;RC Celta;Atlético de Madrid;2;0;H;0;0;D
+2018-19;1/09/2018;Real Madrid;CD Leganés;4;1;H;1;1;D
+2018-19;2/09/2018;D. Alavés;RCD Espanyol;2;1;H;0;1;A
+2018-19;2/09/2018;FC Barcelona;SD Huesca;8;2;H;3;2;H
+2018-19;2/09/2018;Real Betis;Sevilla FC;1;0;H;0;0;D
+2018-19;2/09/2018;Levante UD;Valencia CF;2;2;D;2;1;H
+2018-19;14/09/2018;SD Huesca;Rayo Vallecano;0;1;A;0;1;A
+2018-19;15/09/2018;Athletic Club;Real Madrid;1;1;D;1;0;H
+2018-19;15/09/2018;Atlético de Madrid;SD Eibar;1;1;D;0;0;D
+2018-19;15/09/2018;Real Sociedad;FC Barcelona;1;2;A;1;0;H
+2018-19;15/09/2018;Valencia CF;Real Betis;0;0;D;0;0;D
+2018-19;16/09/2018;RCD Espanyol;Levante UD;1;0;H;0;0;D
+2018-19;16/09/2018;CD Leganés;Villarreal CF;0;1;A;0;0;D
+2018-19;16/09/2018;Sevilla FC;Getafe CF;0;2;A;0;2;A
+2018-19;16/09/2018;R. Valladolid CF;D. Alavés;0;1;A;0;0;D
+2018-19;17/09/2018;Girona FC;RC Celta;3;2;H;2;1;H
+2018-19;21/09/2018;SD Huesca;Real Sociedad;0;1;A;0;0;D
+2018-19;22/09/2018;RC Celta;R. Valladolid CF;3;3;D;2;1;H
+2018-19;22/09/2018;SD Eibar;CD Leganés;1;0;H;0;0;D
+2018-19;22/09/2018;Getafe CF;Atlético de Madrid;0;2;A;0;1;A
+2018-19;22/09/2018;Real Madrid;RCD Espanyol;1;0;H;1;0;H
+2018-19;22/09/2018;Rayo Vallecano;D. Alavés;1;5;A;1;2;A
+2018-19;23/09/2018;FC Barcelona;Girona FC;2;2;D;1;1;D
+2018-19;23/09/2018;Real Betis;Athletic Club;2;2;D;0;2;A
+2018-19;23/09/2018;Levante UD;Sevilla FC;2;6;A;1;4;A
+2018-19;23/09/2018;Villarreal CF;Valencia CF;0;0;D;0;0;D
+2018-19;25/09/2018;Atlético de Madrid;SD Huesca;3;0;H;3;0;H
+2018-19;25/09/2018;RCD Espanyol;SD Eibar;1;0;H;0;0;D
+2018-19;25/09/2018;Real Sociedad;Rayo Vallecano;2;2;D;1;2;A
+2018-19;26/09/2018;Athletic Club;Villarreal CF;0;3;A;0;0;D
+2018-19;26/09/2018;CD Leganés;FC Barcelona;2;1;H;0;1;A
+2018-19;26/09/2018;Sevilla FC;Real Madrid;3;0;H;3;0;H
+2018-19;26/09/2018;Valencia CF;RC Celta;1;1;D;1;0;H
+2018-19;27/09/2018;D. Alavés;Getafe CF;1;1;D;0;0;D
+2018-19;27/09/2018;Girona FC;Real Betis;0;1;A;0;0;D
+2018-19;27/09/2018;R. Valladolid CF;Levante UD;2;1;H;0;0;D
+2018-19;28/09/2018;Rayo Vallecano;RCD Espanyol;2;2;D;1;2;A
+2018-19;29/09/2018;FC Barcelona;Athletic Club;1;1;D;0;1;A
+2018-19;29/09/2018;SD Eibar;Sevilla FC;1;3;A;0;0;D
+2018-19;29/09/2018;Real Madrid;Atlético de Madrid;0;0;D;0;0;D
+2018-19;29/09/2018;Real Sociedad;Valencia CF;0;1;A;0;1;A
+2018-19;30/09/2018;Real Betis;CD Leganés;1;0;H;0;0;D
+2018-19;30/09/2018;SD Huesca;Girona FC;1;1;D;0;1;A
+2018-19;30/09/2018;Levante UD;D. Alavés;2;1;H;2;1;H
+2018-19;30/09/2018;Villarreal CF;R. Valladolid CF;0;1;A;0;0;D
+2018-19;1/10/2018;RC Celta;Getafe CF;1;1;D;1;0;H
+2018-19;5/10/2018;Athletic Club;Real Sociedad;1;3;A;1;1;D
+2018-19;6/10/2018;D. Alavés;Real Madrid;1;0;H;0;0;D
+2018-19;6/10/2018;Getafe CF;Levante UD;0;1;A;0;0;D
+2018-19;6/10/2018;Girona FC;SD Eibar;2;3;A;2;2;D
+2018-19;6/10/2018;CD Leganés;Rayo Vallecano;1;0;H;1;0;H
+2018-19;7/10/2018;Atlético de Madrid;Real Betis;1;0;H;0;0;D
+2018-19;7/10/2018;RCD Espanyol;Villarreal CF;3;1;H;1;1;D
+2018-19;7/10/2018;Sevilla FC;RC Celta;2;1;H;1;0;H
+2018-19;7/10/2018;Valencia CF;FC Barcelona;1;1;D;1;1;D
+2018-19;7/10/2018;R. Valladolid CF;SD Huesca;1;0;H;1;0;H
+2018-19;19/10/2018;RC Celta;D. Alavés;0;1;A;0;0;D
+2018-19;20/10/2018;FC Barcelona;Sevilla FC;4;2;H;2;0;H
+2018-19;20/10/2018;Real Madrid;Levante UD;1;2;A;0;2;A
+2018-19;20/10/2018;Valencia CF;CD Leganés;1;1;D;0;0;D
+2018-19;20/10/2018;Villarreal CF;Atlético de Madrid;1;1;D;0;0;D
+2018-19;21/10/2018;Real Betis;R. Valladolid CF;0;1;A;0;1;A
+2018-19;21/10/2018;SD Eibar;Athletic Club;1;1;D;1;1;D
+2018-19;21/10/2018;SD Huesca;RCD Espanyol;0;2;A;0;1;A
+2018-19;21/10/2018;Rayo Vallecano;Getafe CF;1;2;A;0;0;D
+2018-19;22/10/2018;Real Sociedad;Girona FC;0;0;D;0;0;D
+2018-19;24/10/2018;Rayo Vallecano;Athletic Club;1;1;D;1;0;H
+2018-19;26/10/2018;R. Valladolid CF;RCD Espanyol;1;1;D;0;1;A
+2018-19;27/10/2018;Athletic Club;Valencia CF;0;0;D;0;0;D
+2018-19;27/10/2018;Atlético de Madrid;Real Sociedad;2;0;H;1;0;H
+2018-19;27/10/2018;RC Celta;SD Eibar;4;0;H;2;0;H
+2018-19;27/10/2018;Girona FC;Rayo Vallecano;2;1;H;2;0;H
+2018-19;27/10/2018;Levante UD;CD Leganés;2;0;H;1;0;H
+2018-19;28/10/2018;D. Alavés;Villarreal CF;2;1;H;0;1;A
+2018-19;28/10/2018;FC Barcelona;Real Madrid;5;1;H;2;0;H
+2018-19;28/10/2018;Getafe CF;Real Betis;2;0;H;0;0;D
+2018-19;28/10/2018;Sevilla FC;SD Huesca;2;1;H;0;0;D
+2018-19;3/11/2018;CD Leganés;Atlético de Madrid;1;1;D;0;0;D
+2018-19;3/11/2018;Real Madrid;R. Valladolid CF;2;0;H;0;0;D
+2018-19;3/11/2018;Valencia CF;Girona FC;0;1;A;0;0;D
+2018-19;3/11/2018;Rayo Vallecano;FC Barcelona;2;3;A;1;1;D
+2018-19;4/11/2018;Real Betis;RC Celta;3;3;D;1;0;H
+2018-19;4/11/2018;SD Eibar;D. Alavés;2;1;H;0;1;A
+2018-19;4/11/2018;SD Huesca;Getafe CF;1;1;D;0;0;D
+2018-19;4/11/2018;Real Sociedad;Sevilla FC;0;0;D;0;0;D
+2018-19;4/11/2018;Villarreal CF;Levante UD;1;1;D;0;0;D
+2018-19;5/11/2018;RCD Espanyol;Athletic Club;1;0;H;1;0;H
+2018-19;9/11/2018;Levante UD;Real Sociedad;1;3;A;1;0;H
+2018-19;10/11/2018;Atlético de Madrid;Athletic Club;3;2;H;0;1;A
+2018-19;10/11/2018;Getafe CF;Valencia CF;0;1;A;0;0;D
+2018-19;10/11/2018;Girona FC;CD Leganés;0;0;D;0;0;D
+2018-19;10/11/2018;R. Valladolid CF;SD Eibar;0;0;D;0;0;D
+2018-19;11/11/2018;D. Alavés;SD Huesca;2;1;H;1;1;D
+2018-19;11/11/2018;FC Barcelona;Real Betis;3;4;A;0;2;A
+2018-19;11/11/2018;RC Celta;Real Madrid;2;4;A;0;1;A
+2018-19;11/11/2018;Sevilla FC;RCD Espanyol;2;1;H;0;1;A
+2018-19;11/11/2018;Rayo Vallecano;Villarreal CF;2;2;D;1;1;D
+2018-19;23/11/2018;CD Leganés;D. Alavés;1;0;H;1;0;H
+2018-19;24/11/2018;Atlético de Madrid;FC Barcelona;1;1;D;0;0;D
+2018-19;24/11/2018;SD Eibar;Real Madrid;3;0;H;1;0;H
+2018-19;24/11/2018;SD Huesca;Levante UD;2;2;D;1;1;D
+2018-19;24/11/2018;Valencia CF;Rayo Vallecano;3;0;H;1;0;H
+2018-19;25/11/2018;Athletic Club;Getafe CF;1;1;D;0;0;D
+2018-19;25/11/2018;RCD Espanyol;Girona FC;1;3;A;0;2;A
+2018-19;25/11/2018;Sevilla FC;R. Valladolid CF;1;0;H;1;0;H
+2018-19;25/11/2018;Villarreal CF;Real Betis;2;1;H;0;0;D
+2018-19;26/11/2018;Real Sociedad;RC Celta;2;1;H;1;0;H
+2018-19;30/11/2018;Rayo Vallecano;SD Eibar;1;0;H;0;0;D
+2018-19;1/12/2018;RC Celta;SD Huesca;2;0;H;1;0;H
+2018-19;1/12/2018;Getafe CF;RCD Espanyol;3;0;H;0;0;D
+2018-19;1/12/2018;Real Madrid;Valencia CF;2;0;H;1;0;H
+2018-19;1/12/2018;R. Valladolid CF;CD Leganés;2;4;A;0;2;A
+2018-19;2/12/2018;D. Alavés;Sevilla FC;1;1;D;1;0;H
+2018-19;2/12/2018;FC Barcelona;Villarreal CF;2;0;H;1;0;H
+2018-19;2/12/2018;Real Betis;Real Sociedad;1;0;H;1;0;H
+2018-19;2/12/2018;Girona FC;Atlético de Madrid;1;1;D;1;0;H
+2018-19;3/12/2018;Levante UD;Athletic Club;3;0;H;1;0;H
+2018-19;7/12/2018;CD Leganés;Getafe CF;1;1;D;0;1;A
+2018-19;8/12/2018;Atlético de Madrid;D. Alavés;3;0;H;1;0;H
+2018-19;8/12/2018;RCD Espanyol;FC Barcelona;0;4;A;0;3;A
+2018-19;8/12/2018;Valencia CF;Sevilla FC;1;1;D;0;0;D
+2018-19;8/12/2018;Villarreal CF;RC Celta;2;3;A;0;1;A
+2018-19;9/12/2018;Real Betis;Rayo Vallecano;2;0;H;0;0;D
+2018-19;9/12/2018;SD Eibar;Levante UD;4;4;D;1;2;A
+2018-19;9/12/2018;SD Huesca;Real Madrid;0;1;A;0;1;A
+2018-19;9/12/2018;Real Sociedad;R. Valladolid CF;1;2;A;0;1;A
+2018-19;10/12/2018;Athletic Club;Girona FC;1;0;H;0;0;D
+2018-19;14/12/2018;RC Celta;CD Leganés;0;0;D;0;0;D
+2018-19;15/12/2018;SD Eibar;Valencia CF;1;1;D;0;1;A
+2018-19;15/12/2018;Getafe CF;Real Sociedad;1;0;H;1;0;H
+2018-19;15/12/2018;Real Madrid;Rayo Vallecano;1;0;H;1;0;H
+2018-19;15/12/2018;R. Valladolid CF;Atlético de Madrid;2;3;A;0;2;A
+2018-19;16/12/2018;RCD Espanyol;Real Betis;1;3;A;1;1;D
+2018-19;16/12/2018;SD Huesca;Villarreal CF;2;2;D;1;0;H
+2018-19;16/12/2018;Levante UD;FC Barcelona;0;5;A;0;2;A
+2018-19;16/12/2018;Sevilla FC;Girona FC;2;0;H;0;0;D
+2018-19;17/12/2018;D. Alavés;Athletic Club;0;0;D;0;0;D
+2018-19;21/12/2018;Girona FC;Getafe CF;1;1;D;0;0;D
+2018-19;21/12/2018;Real Sociedad;D. Alavés;0;1;A;0;1;A
+2018-19;22/12/2018;Athletic Club;R. Valladolid CF;1;1;D;1;0;H
+2018-19;22/12/2018;Atlético de Madrid;RCD Espanyol;1;0;H;0;0;D
+2018-19;22/12/2018;FC Barcelona;RC Celta;2;0;H;2;0;H
+2018-19;22/12/2018;Real Betis;SD Eibar;1;1;D;1;0;H
+2018-19;23/12/2018;CD Leganés;Sevilla FC;1;1;D;1;0;H
+2018-19;23/12/2018;Valencia CF;SD Huesca;2;1;H;1;0;H
+2018-19;23/12/2018;Rayo Vallecano;Levante UD;2;1;H;1;0;H
+2018-19;3/01/2019;Villarreal CF;Real Madrid;2;2;D;1;2;A
+2018-19;4/01/2019;RCD Espanyol;CD Leganés;1;0;H;1;0;H
+2018-19;4/01/2019;Levante UD;Girona FC;2;2;D;0;1;A
+2018-19;5/01/2019;D. Alavés;Valencia CF;2;1;H;2;1;H
+2018-19;5/01/2019;SD Huesca;Real Betis;2;1;H;0;0;D
+2018-19;5/01/2019;R. Valladolid CF;Rayo Vallecano;0;1;A;0;1;A
+2018-19;6/01/2019;SD Eibar;Villarreal CF;0;0;D;0;0;D
+2018-19;6/01/2019;Getafe CF;FC Barcelona;1;2;A;1;2;A
+2018-19;6/01/2019;Real Madrid;Real Sociedad;0;2;A;0;1;A
+2018-19;6/01/2019;Sevilla FC;Atlético de Madrid;1;1;D;1;1;D
+2018-19;7/01/2019;RC Celta;Athletic Club;1;2;A;1;1;D
+2018-19;11/01/2019;Rayo Vallecano;RC Celta;4;2;H;2;2;D
+2018-19;12/01/2019;Girona FC;D. Alavés;1;1;D;1;0;H
+2018-19;12/01/2019;CD Leganés;SD Huesca;1;0;H;0;0;D
+2018-19;12/01/2019;Valencia CF;R. Valladolid CF;1;1;D;0;0;D
+2018-19;12/01/2019;Villarreal CF;Getafe CF;1;2;A;0;0;D
+2018-19;13/01/2019;Athletic Club;Sevilla FC;2;0;H;1;0;H
+2018-19;13/01/2019;Atlético de Madrid;Levante UD;1;0;H;0;0;D
+2018-19;13/01/2019;FC Barcelona;SD Eibar;3;0;H;1;0;H
+2018-19;13/01/2019;Real Betis;Real Madrid;1;2;A;0;1;A
+2018-19;14/01/2019;Real Sociedad;RCD Espanyol;3;2;H;2;2;D
+2018-19;18/01/2019;Getafe CF;D. Alavés;4;0;H;1;0;H
+2018-19;19/01/2019;RC Celta;Valencia CF;1;2;A;1;0;H
+2018-19;19/01/2019;SD Huesca;Atlético de Madrid;0;3;A;0;1;A
+2018-19;19/01/2019;Real Madrid;Sevilla FC;2;0;H;0;0;D
+2018-19;20/01/2019;FC Barcelona;CD Leganés;3;1;H;1;0;H
+2018-19;20/01/2019;Real Betis;Girona FC;3;2;H;1;2;A
+2018-19;20/01/2019;Levante UD;R. Valladolid CF;2;0;H;1;0;H
+2018-19;20/01/2019;Rayo Vallecano;Real Sociedad;2;2;D;2;1;H
+2018-19;20/01/2019;Villarreal CF;Athletic Club;1;1;D;0;1;A
+2018-19;21/01/2019;SD Eibar;RCD Espanyol;3;0;H;1;0;H
+2018-19;26/01/2019;Atlético de Madrid;Getafe CF;2;0;H;2;0;H
+2018-19;26/01/2019;CD Leganés;SD Eibar;2;2;D;0;2;A
+2018-19;26/01/2019;Sevilla FC;Levante UD;5;0;H;0;0;D
+2018-19;26/01/2019;Valencia CF;Villarreal CF;3;0;H;1;0;H
+2018-19;27/01/2019;Athletic Club;Real Betis;1;0;H;1;0;H
+2018-19;27/01/2019;RCD Espanyol;Real Madrid;2;4;A;1;3;A
+2018-19;27/01/2019;Girona FC;FC Barcelona;0;2;A;0;1;A
+2018-19;27/01/2019;Real Sociedad;SD Huesca;0;0;D;0;0;D
+2018-19;27/01/2019;R. Valladolid CF;RC Celta;2;1;H;0;1;A
+2018-19;28/01/2019;D. Alavés;Rayo Vallecano;0;1;A;0;0;D
+2018-19;1/02/2019;SD Huesca;R. Valladolid CF;4;0;H;1;0;H
+2018-19;2/02/2019;FC Barcelona;Valencia CF;2;2;D;1;2;A
+2018-19;2/02/2019;RC Celta;Sevilla FC;1;0;H;0;0;D
+2018-19;2/02/2019;Levante UD;Getafe CF;0;0;D;0;0;D
+2018-19;2/02/2019;Real Sociedad;Athletic Club;2;1;H;2;0;H
+2018-19;3/02/2019;Real Betis;Atlético de Madrid;1;0;H;0;0;D
+2018-19;3/02/2019;SD Eibar;Girona FC;3;0;H;1;0;H
+2018-19;3/02/2019;Real Madrid;D. Alavés;3;0;H;1;0;H
+2018-19;3/02/2019;Villarreal CF;RCD Espanyol;2;2;D;1;0;H
+2018-19;4/02/2019;Rayo Vallecano;CD Leganés;1;2;A;0;1;A
+2018-19;8/02/2019;R. Valladolid CF;Villarreal CF;0;0;D;0;0;D
+2018-19;9/02/2019;Atlético de Madrid;Real Madrid;1;3;A;1;2;A
+2018-19;9/02/2019;RCD Espanyol;Rayo Vallecano;2;1;H;0;1;A
+2018-19;9/02/2019;Getafe CF;RC Celta;3;1;H;1;1;D
+2018-19;9/02/2019;Girona FC;SD Huesca;0;2;A;0;2;A
+2018-19;10/02/2019;Athletic Club;FC Barcelona;0;0;D;0;0;D
+2018-19;10/02/2019;CD Leganés;Real Betis;3;0;H;2;0;H
+2018-19;10/02/2019;Sevilla FC;SD Eibar;2;2;D;0;1;A
+2018-19;10/02/2019;Valencia CF;Real Sociedad;0;0;D;0;0;D
+2018-19;11/02/2019;D. Alavés;Levante UD;2;0;H;1;0;H
+2018-19;15/02/2019;SD Eibar;Getafe CF;2;2;D;0;1;A
+2018-19;16/02/2019;FC Barcelona;R. Valladolid CF;1;0;H;1;0;H
+2018-19;16/02/2019;RC Celta;Levante UD;1;4;A;0;2;A
+2018-19;16/02/2019;Real Sociedad;CD Leganés;3;0;H;0;0;D
+2018-19;16/02/2019;Rayo Vallecano;Atlético de Madrid;0;1;A;0;0;D
+2018-19;17/02/2019;Real Betis;D. Alavés;1;1;D;1;1;D
+2018-19;17/02/2019;Real Madrid;Girona FC;1;2;A;1;0;H
+2018-19;17/02/2019;Valencia CF;RCD Espanyol;0;0;D;0;0;D
+2018-19;17/02/2019;Villarreal CF;Sevilla FC;3;0;H;2;0;H
+2018-19;18/02/2019;SD Huesca;Athletic Club;0;1;A;0;1;A
+2018-19;22/02/2019;RCD Espanyol;SD Huesca;1;1;D;1;0;H
+2018-19;23/02/2019;D. Alavés;RC Celta;0;0;D;0;0;D
+2018-19;23/02/2019;Athletic Club;SD Eibar;1;0;H;1;0;H
+2018-19;23/02/2019;Getafe CF;Rayo Vallecano;2;1;H;1;0;H
+2018-19;23/02/2019;Sevilla FC;FC Barcelona;2;4;A;2;1;H
+2018-19;24/02/2019;Atlético de Madrid;Villarreal CF;2;0;H;1;0;H
+2018-19;24/02/2019;CD Leganés;Valencia CF;1;1;D;0;1;A
+2018-19;24/02/2019;Levante UD;Real Madrid;1;2;A;0;1;A
+2018-19;24/02/2019;R. Valladolid CF;Real Betis;0;2;A;0;1;A
+2018-19;25/02/2019;Girona FC;Real Sociedad;0;0;D;0;0;D
+2018-19;1/03/2019;Rayo Vallecano;Girona FC;0;2;A;0;1;A
+2018-19;2/03/2019;RCD Espanyol;R. Valladolid CF;3;1;H;1;1;D
+2018-19;2/03/2019;SD Huesca;Sevilla FC;2;1;H;1;0;H
+2018-19;2/03/2019;Real Madrid;FC Barcelona;0;1;A;0;1;A
+2018-19;2/03/2019;Villarreal CF;D. Alavés;1;2;A;0;0;D
+2018-19;3/03/2019;Real Betis;Getafe CF;1;2;A;0;2;A
+2018-19;3/03/2019;SD Eibar;RC Celta;1;0;H;0;0;D
+2018-19;3/03/2019;Real Sociedad;Atlético de Madrid;0;2;A;0;2;A
+2018-19;3/03/2019;Valencia CF;Athletic Club;2;0;H;0;0;D
+2018-19;4/03/2019;CD Leganés;Levante UD;1;0;H;1;0;H
+2018-19;8/03/2019;Athletic Club;RCD Espanyol;1;1;D;0;1;A
+2018-19;9/03/2019;D. Alavés;SD Eibar;1;1;D;0;0;D
+2018-19;9/03/2019;Atlético de Madrid;CD Leganés;1;0;H;0;0;D
+2018-19;9/03/2019;FC Barcelona;Rayo Vallecano;3;1;H;1;1;D
+2018-19;9/03/2019;Getafe CF;SD Huesca;2;1;H;0;1;A
+2018-19;10/03/2019;RC Celta;Real Betis;0;1;A;0;0;D
+2018-19;10/03/2019;Girona FC;Valencia CF;2;3;A;1;1;D
+2018-19;10/03/2019;Levante UD;Villarreal CF;0;2;A;0;0;D
+2018-19;10/03/2019;Sevilla FC;Real Sociedad;5;2;H;1;1;D
+2018-19;10/03/2019;R. Valladolid CF;Real Madrid;1;4;A;1;1;D
+2018-19;15/03/2019;Real Sociedad;Levante UD;1;1;D;1;0;H
+2018-19;16/03/2019;Athletic Club;Atlético de Madrid;2;0;H;0;0;D
+2018-19;16/03/2019;SD Huesca;D. Alavés;1;3;A;1;1;D
+2018-19;16/03/2019;CD Leganés;Girona FC;0;2;A;0;2;A
+2018-19;16/03/2019;Real Madrid;RC Celta;2;0;H;0;0;D
+2018-19;17/03/2019;Real Betis;FC Barcelona;1;4;A;0;2;A
+2018-19;17/03/2019;SD Eibar;R. Valladolid CF;1;2;A;0;0;D
+2018-19;17/03/2019;RCD Espanyol;Sevilla FC;0;1;A;0;0;D
+2018-19;17/03/2019;Valencia CF;Getafe CF;0;0;D;0;0;D
+2018-19;17/03/2019;Villarreal CF;Rayo Vallecano;3;1;H;0;1;A
+2018-19;29/03/2019;Girona FC;Athletic Club;1;2;A;1;0;H
+2018-19;30/03/2019;D. Alavés;Atlético de Madrid;0;4;A;0;2;A
+2018-19;30/03/2019;FC Barcelona;RCD Espanyol;2;0;H;0;0;D
+2018-19;30/03/2019;RC Celta;Villarreal CF;3;2;H;0;2;A
+2018-19;30/03/2019;Getafe CF;CD Leganés;0;2;A;0;0;D
+2018-19;31/03/2019;Levante UD;SD Eibar;2;2;D;2;1;H
+2018-19;31/03/2019;Real Madrid;SD Huesca;3;2;H;1;1;D
+2018-19;31/03/2019;Sevilla FC;Valencia CF;0;1;A;0;1;A
+2018-19;31/03/2019;R. Valladolid CF;Real Sociedad;1;1;D;1;0;H
+2018-19;31/03/2019;Rayo Vallecano;Real Betis;1;1;D;1;0;H
+2018-19;2/04/2019;Atlético de Madrid;Girona FC;2;0;H;0;0;D
+2018-19;2/04/2019;RCD Espanyol;Getafe CF;1;1;D;0;0;D
+2018-19;2/04/2019;Villarreal CF;FC Barcelona;4;4;D;1;2;A
+2018-19;3/04/2019;Athletic Club;Levante UD;3;2;H;2;0;H
+2018-19;3/04/2019;SD Eibar;Rayo Vallecano;2;1;H;0;1;A
+2018-19;3/04/2019;SD Huesca;RC Celta;3;3;D;0;1;A
+2018-19;3/04/2019;Valencia CF;Real Madrid;2;1;H;1;0;H
+2018-19;4/04/2019;CD Leganés;R. Valladolid CF;1;0;H;0;0;D
+2018-19;4/04/2019;Sevilla FC;D. Alavés;2;0;H;1;0;H
+2018-19;4/04/2019;Real Sociedad;Real Betis;2;1;H;1;0;H
+2018-19;6/04/2019;FC Barcelona;Atlético de Madrid;2;0;H;0;0;D
+2018-19;6/04/2019;Girona FC;RCD Espanyol;1;2;A;0;0;D
+2018-19;6/04/2019;Real Madrid;SD Eibar;2;1;H;0;1;A
+2018-19;6/04/2019;Rayo Vallecano;Valencia CF;2;0;H;1;0;H
+2018-19;7/04/2019;D. Alavés;CD Leganés;1;1;D;1;0;H
+2018-19;7/04/2019;Real Betis;Villarreal CF;2;1;H;1;1;D
+2018-19;7/04/2019;RC Celta;Real Sociedad;3;1;H;0;1;A
+2018-19;7/04/2019;Getafe CF;Athletic Club;1;0;H;0;0;D
+2018-19;7/04/2019;Levante UD;SD Huesca;2;2;D;1;0;H
+2018-19;7/04/2019;R. Valladolid CF;Sevilla FC;0;2;A;0;0;D
+2018-19;13/04/2019;Atlético de Madrid;RC Celta;2;0;H;1;0;H
+2018-19;13/04/2019;RCD Espanyol;D. Alavés;2;1;H;1;0;H
+2018-19;13/04/2019;SD Huesca;FC Barcelona;0;0;D;0;0;D
+2018-19;13/04/2019;Sevilla FC;Real Betis;3;2;H;1;0;H
+2018-19;14/04/2019;Athletic Club;Rayo Vallecano;3;2;H;1;1;D
+2018-19;14/04/2019;Girona FC;Villarreal CF;0;1;A;0;1;A
+2018-19;14/04/2019;Real Sociedad;SD Eibar;1;1;D;1;0;H
+2018-19;14/04/2019;Valencia CF;Levante UD;3;1;H;1;0;H
+2018-19;14/04/2019;R. Valladolid CF;Getafe CF;2;2;D;1;1;D
+2018-19;15/04/2019;CD Leganés;Real Madrid;1;1;D;1;0;H
+2018-19;19/04/2019;D. Alavés;R. Valladolid CF;2;2;D;2;1;H
+2018-19;20/04/2019;FC Barcelona;Real Sociedad;2;1;H;1;0;H
+2018-19;20/04/2019;RC Celta;Girona FC;2;1;H;1;0;H
+2018-19;20/04/2019;SD Eibar;Atlético de Madrid;0;1;A;0;0;D
+2018-19;20/04/2019;Rayo Vallecano;SD Huesca;0;0;D;0;0;D
+2018-19;21/04/2019;Real Betis;Valencia CF;1;2;A;0;1;A
+2018-19;21/04/2019;Getafe CF;Sevilla FC;3;0;H;2;0;H
+2018-19;21/04/2019;Levante UD;RCD Espanyol;2;2;D;0;1;A
+2018-19;21/04/2019;Real Madrid;Athletic Club;3;0;H;0;0;D
+2018-19;21/04/2019;Villarreal CF;CD Leganés;2;1;H;0;0;D
+2018-19;23/04/2019;D. Alavés;FC Barcelona;0;2;A;0;0;D
+2018-19;23/04/2019;SD Huesca;SD Eibar;2;0;H;0;0;D
+2018-19;23/04/2019;R. Valladolid CF;Girona FC;1;0;H;0;0;D
+2018-19;24/04/2019;Atlético de Madrid;Valencia CF;3;2;H;1;1;D
+2018-19;24/04/2019;RCD Espanyol;RC Celta;1;1;D;1;0;H
+2018-19;24/04/2019;CD Leganés;Athletic Club;0;1;A;0;1;A
+2018-19;24/04/2019;Levante UD;Real Betis;4;0;H;2;0;H
+2018-19;25/04/2019;Getafe CF;Real Madrid;0;0;D;0;0;D
+2018-19;25/04/2019;Sevilla FC;Rayo Vallecano;5;0;H;0;0;D
+2018-19;25/04/2019;Real Sociedad;Villarreal CF;0;1;A;0;0;D
+2018-19;27/04/2019;Athletic Club;D. Alavés;1;1;D;1;1;D
+2018-19;27/04/2019;Atlético de Madrid;R. Valladolid CF;1;0;H;0;0;D
+2018-19;27/04/2019;FC Barcelona;Levante UD;1;0;H;0;0;D
+2018-19;27/04/2019;CD Leganés;RC Celta;0;0;D;0;0;D
+2018-19;28/04/2019;Girona FC;Sevilla FC;1;0;H;0;0;D
+2018-19;28/04/2019;Real Sociedad;Getafe CF;2;1;H;1;0;H
+2018-19;28/04/2019;Valencia CF;SD Eibar;0;1;A;0;0;D
+2018-19;28/04/2019;Rayo Vallecano;Real Madrid;1;0;H;1;0;H
+2018-19;28/04/2019;Villarreal CF;SD Huesca;1;1;D;1;0;H
+2018-19;29/04/2019;Real Betis;RCD Espanyol;1;1;D;0;1;A
+2018-19;3/05/2019;Sevilla FC;CD Leganés;0;3;A;0;2;A
+2018-19;4/05/2019;D. Alavés;Real Sociedad;0;1;A;0;1;A
+2018-19;4/05/2019;RC Celta;FC Barcelona;2;0;H;0;0;D
+2018-19;4/05/2019;RCD Espanyol;Atlético de Madrid;3;0;H;1;0;H
+2018-19;4/05/2019;Levante UD;Rayo Vallecano;4;1;H;2;0;H
+2018-19;5/05/2019;SD Eibar;Real Betis;1;0;H;1;0;H
+2018-19;5/05/2019;Getafe CF;Girona FC;2;0;H;1;0;H
+2018-19;5/05/2019;SD Huesca;Valencia CF;2;6;A;0;5;A
+2018-19;5/05/2019;Real Madrid;Villarreal CF;3;2;H;2;1;H
+2018-19;5/05/2019;R. Valladolid CF;Athletic Club;1;0;H;1;0;H
+2018-19;12/05/2019;Athletic Club;RC Celta;3;1;H;3;0;H
+2018-19;12/05/2019;Atlético de Madrid;Sevilla FC;1;1;D;1;0;H
+2018-19;12/05/2019;FC Barcelona;Getafe CF;2;0;H;1;0;H
+2018-19;12/05/2019;Real Betis;SD Huesca;2;1;H;1;0;H
+2018-19;12/05/2019;Girona FC;Levante UD;1;2;A;0;0;D
+2018-19;12/05/2019;CD Leganés;RCD Espanyol;0;2;A;0;1;A
+2018-19;12/05/2019;Real Sociedad;Real Madrid;3;1;H;1;1;D
+2018-19;12/05/2019;Valencia CF;D. Alavés;3;1;H;2;1;H
+2018-19;12/05/2019;Rayo Vallecano;R. Valladolid CF;1;2;A;0;1;A
+2018-19;12/05/2019;Villarreal CF;SD Eibar;1;0;H;0;0;D
+2018-19;18/05/2019;D. Alavés;Girona FC;2;1;H;1;0;H
+2018-19;18/05/2019;RC Celta;Rayo Vallecano;2;2;D;0;1;A
+2018-19;18/05/2019;RCD Espanyol;Real Sociedad;2;0;H;0;0;D
+2018-19;18/05/2019;Getafe CF;Villarreal CF;2;2;D;1;1;D
+2018-19;18/05/2019;SD Huesca;CD Leganés;2;1;H;0;1;A
+2018-19;18/05/2019;Levante UD;Atlético de Madrid;2;2;D;2;0;H
+2018-19;18/05/2019;Sevilla FC;Athletic Club;2;0;H;1;0;H
+2018-19;18/05/2019;R. Valladolid CF;Valencia CF;0;2;A;0;1;A
+2018-19;19/05/2019;SD Eibar;FC Barcelona;2;2;D;2;2;D
+2018-19;19/05/2019;Real Madrid;Real Betis;0;2;A;0;0;D
