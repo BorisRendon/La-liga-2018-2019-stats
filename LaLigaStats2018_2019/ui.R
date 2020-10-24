@@ -81,6 +81,11 @@ fluidPage(theme = shinytheme("united"),
                          div(style="font-size:x-large", textOutput('resultado')),
                          h3("Ganador del partido"),
                          imageOutput("homeTeam"),
+                         selectInput("bins",
+                                     "Buscar por equipo:",
+                                     choices = nombres_equipos,
+                                     selected = "FC Barcelona"
+                         )
                        ),
                        mainPanel(h2("Equipos"), 
                                  div(
@@ -98,12 +103,8 @@ fluidPage(theme = shinytheme("united"),
                                  br(),
                                  fluidRow(fluidRow(column(6,DT::dataTableOutput('tabla1'))),
                                           sidebarLayout(sidebarPanel(
-                                            selectInput("bins",
-                                                        "Buscar por equipo:",
-                                                        choices = NULL,
-                                                        selected =NULL
-                                                        )),
-                                            mainPanel(plotOutput("distPlot"))
+                                            ),
+                                            mainPanel()
                                             
                                           )),
                                  
