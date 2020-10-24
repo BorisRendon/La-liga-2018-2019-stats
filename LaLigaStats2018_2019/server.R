@@ -6,7 +6,50 @@ library(DT)
 
 library(dplyr)
 
+library(rsconnect)
+# equipos dataset
+equipos <- read_delim("laliga_partidos_2018-2019.csv", ";")
+nombres_equipos <- unique(equipos$AwayTeam)
+equipos$Season <- NULL
+
+# jugadores dataset
 jugadores <- read_delim("laliga_player_stats_spanish.csv", ";")
+nombres_jugadores <- unique(jugadores$Nombre)
+posiciones_jugadores <- unique(jugadores$Posicion)
+equipos_jugadores <- unique(jugadores$Equipo)
+
+
+total_equipos <- equipos %>% 
+  summarise(Cantidad_equipos = n_distinct(HomeTeam))
+
+total_jugadores <- jugadores %>% 
+  summarise(jugadores_distintos = n_distinct(Nombre))
+
+total_golesaway <- equipos %>% 
+  summarise(sum(equipos$FTHG))
+
+total_goleshome <- equipos %>% 
+  summarise(sum(equipos$FTAG))
+
+total_goles <- total_golesaway + total_goleshome
+
+total_amarillas <- jugadores %>% 
+  summarise(sum(jugadores$`Tarjetas amarillas`))
+
+total_rojas <- jugadores %>% 
+  summarise(sum(jugadores$`Tarjetas rojas`))
+
+goles_por_equipo <- jugadores %>% 
+  select(Equipo,`Goles marcados`) %>% 
+  group_by(Equipo) %>% 
+  summarise(Equipo=Equipo,goles = sum(`Goles marcados`)) %>% 
+  arrange(desc(goles))
+
+goles_por_equipo <-unique(goles_por_equipo)
+
+campeon <- goles_por_equipo$Equipo[1]
+
+jugadores <- read_delim("laliga_player_stats_spanish.csv", ";" )
 jugadores <- na.omit(jugadores)
 
 shinyServer(function(input, output, session) {

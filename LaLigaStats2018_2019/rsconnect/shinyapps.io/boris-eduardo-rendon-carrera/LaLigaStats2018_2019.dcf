@@ -1,0 +1,12 @@
+name: LaLigaStats2018_2019
+title: LaLigaStats2018_2019
+username:
+account: boris-eduardo-rendon-carrera
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3085725
+bundleId: 3776828
+url: https://boris-eduardo-rendon-carrera.shinyapps.io/LaLigaStats2018_2019/
+when: 1603517495.34834
+asMultiple: FALSE
+asStatic: FALSE

@@ -5,7 +5,7 @@ library(tidyverse)
 library(shiny)
 library(shinyWidgets)
 
-
+options(shiny.sanitize.errors = FALSE)
 # equipos dataset
 equipos <- read_delim("laliga_partidos_2018-2019.csv", ";")
 nombres_equipos <- unique(equipos$AwayTeam)
@@ -47,7 +47,7 @@ goles_por_equipo <- jugadores %>%
 goles_por_equipo <-unique(goles_por_equipo)
   
 campeon <- goles_por_equipo$Equipo[1]
- 
+
 
 fluidPage(theme = shinytheme("united"),
           #setBackgroundImage(src = "elbicho.png"),
@@ -143,3 +143,5 @@ fluidPage(theme = shinytheme("united"),
           )
         )
 )
+
+
