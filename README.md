@@ -29,8 +29,8 @@ En la pestaña jugador se puede filtrar por jugador y por posición dentro del c
 
 Para usar los parámetros desde el URL se debe de hacer de la siguiente manera:
 * ```localhost/?bins= equipo a buscar ``` 
-* Por ejemplo : ***localhost/?bins= FC Barcelona***
-* ![Tabla](screenshots/tabla.jpg)
+* Por ejemplo : ***/localhost/?bins= FC Barcelona***
+* ![Tabla](LaLigaStats2018_2019/screenshots/tabla.jpg)
 
 
 
