@@ -71,8 +71,8 @@ shinyServer(function(input, output, session) {
   
   
   ## Equipos
-  output$tabla1 <- shiny::renderDataTable({
-    shiny::datatable(equipos,
+  output$tabla1 <- DT::renderDataTable({
+    DT::datatable(equipos,
                   extensions = 'Buttons',
                   options = list(pageLength = 10,
                                  lengthMenu = c(5, 10, 15),

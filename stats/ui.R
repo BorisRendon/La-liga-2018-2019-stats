@@ -101,7 +101,7 @@ fluidPage(theme = shinytheme("united"),
                                    )
                                  ),
                                  br(),
-                                 fluidRow(fluidRow(column(6,shiny::dataTableOutput('tabla1'))),
+                                 fluidRow(fluidRow(column(6,DT::dataTableOutput('tabla1'))),
                                           sidebarLayout(sidebarPanel(
                                             ),
                                             mainPanel()
@@ -137,7 +137,7 @@ fluidPage(theme = shinytheme("united"),
                                  plotOutput("distDuelos"),
                                  br(),
                                  p("Información adicional del jugador:"),
-                                 shiny::dataTableOutput('tablajugadores')
+                                 DT::dataTableOutput('tablajugadores')
                                  )
                        )
           )
